@@ -112,7 +112,7 @@ conky.config = {
 	--Windows
 
 	own_window = true,							-- create your own window to draw
-	own_window_argb_value = 0,			    -- real transparency - composite manager required 0-255
+	own_window_argb_value = 100,			    -- real transparency - composite manager required 0-255
 	own_window_argb_visual = true,				-- use ARGB - composite manager required
 	own_window_colour = '#000000',				-- set colour if own_window_transparent no
 	own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',  -- if own_window true - just hints - own_window_type sets it
