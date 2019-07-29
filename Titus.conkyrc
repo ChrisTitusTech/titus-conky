@@ -33,6 +33,15 @@
 # FONTS FOR THIS CONKY
 # http://www.dafont.com/style-bats.font
 #======================================================================================
+# Titus Modifications
+#======================================================================================
+# Changed time from Roboto to GE Inspira which is a base Conky Gotham Addon
+# Changed Drives from 2 to 3
+# Modified one_window_type from desktop to normal for KDE compatibility
+# Modified Ethernet settings
+# Modified Pink Lines to Bright Blue
+# Removed Extra symbols and incorrect formatting
+#======================================================================================
 
 ]]
 
